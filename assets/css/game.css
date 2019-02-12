@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient( green, darkgreen, black);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1 {
+    color: white;
+}
+
+.card {
+    border: none;
+    background-color: transparent;
+}
+
+.png {
+    width: 35%;
+}
+
+h5 {
+    color: white;
+}
+
+p {
+    color: white;
+}
